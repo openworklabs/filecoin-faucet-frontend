@@ -8,7 +8,7 @@
     "start": "next start -p ${PORT-4002}"
   },
   "dependencies": {
-    "@glif/filecoin-address": "^1.1.0-beta.10",
+    "@glif/filecoin-address": "^1.1.0",
     "@glif/filecoin-number": "^1.1.0-beta.11",
     "@glif/filecoin-rpc-client": "^1.1.0-beta.11",
     "@glif/react-components": "^1.1.0-beta.13",
